@@ -1,0 +1,9 @@
+.board{
+    display:grid;
+    height:75vh;
+    width:75vh;
+}
+
+.cell{
+    border:1px solid black;
+}
